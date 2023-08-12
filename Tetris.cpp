@@ -265,3 +265,5 @@ int main()
 	cout << "GAME OVER \n\n Score: " << nScore << endl;
 	system("pause");
 }
+
+// credits: Javidx9 on https://www.youtube.com/watch?v=8OK8_tHeCIA
